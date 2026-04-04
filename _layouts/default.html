@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | Icaro Niz</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<div class="layout__container">
+{% include header.html %}
+<main id="main-content" tabindex="-1">
+    {{ content }}
+</main>
+{% include footer.html %}
+</div>
+<script src="/assets/js/nav-active.js" defer></script>
+</body>
+</html>
