@@ -1,5 +1,17 @@
-domain: icaroniz.github.io
-url: "https://icaroniz.github.io"
-title: Icaro Niz
-description: "Icaro Niz's personal website"
-author: Icaro Niz
+title: Ícaro Niz
+description: Senior Frontend Engineer and Technical Lead
+url: "https://www.icaroniz.com"
+baseurl: ""
+
+# Build
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
+# Sass
+sass:
+  style: compressed
