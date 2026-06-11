@@ -15,10 +15,10 @@
       'hero-cta':     'View experience',
 
       'about-label': 'About',
-      'about-title': 'Senior Frontend Engineer &amp; Technical Lead',
+      'about-title': 'Senior Frontend Engineer & Technical Lead',
       'about-body':  '<p>Over a decade building web applications and leading frontend initiatives across product-focused teams. My work spans frontend architecture, real-time applications, technical roadmapping, mentoring, code reviews, testing strategies, and close collaboration with product and design stakeholders.</p><p>I care about frontend performance, developer experience, and building software that creates real value for users — not just software that ships.</p><p>I believe in clean, maintainable code, strong team collaboration, and continuous improvement. The best engineering comes from teams that trust each other and share ownership of quality.</p>',
       'interests-label':  'Interests',
-      'interest-0': 'Rock music &amp; bass guitar',
+      'interest-0': 'Rock music & bass guitar',
       'interest-1': 'Drone flying',
       'interest-2': "Rubik's cubes",
       'interest-3': 'LEGO building',
@@ -27,7 +27,7 @@
 
       'stack-label': 'Core Technologies',
       'stack-title': 'Tech stack',
-      'stack-testing-cat': 'Testing &amp; Practices',
+      'stack-testing-cat': 'Testing & Practices',
       'stack-lead-cat':    'Leadership',
       'stack-lead-items':  'Mentoring · Hiring<br>Architecture · Roadmapping',
 
@@ -73,7 +73,7 @@
       'hero-cta':     'Ver experiencia',
 
       'about-label': 'Sobre mí',
-      'about-title': 'Senior Frontend Engineer &amp; Technical Lead',
+      'about-title': 'Senior Frontend Engineer & Technical Lead',
       'about-body':  '<p>Más de una década construyendo aplicaciones web y liderando iniciativas de frontend en equipos centrados en producto. Mi trabajo abarca arquitectura frontend, aplicaciones en tiempo real, roadmapping técnico, mentoring, revisiones de código y colaboración estrecha con producto y diseño.</p><p>Me preocupa el rendimiento frontend, la experiencia del desarrollador y construir software que genere valor real para los usuarios — no solo software que se entrega.</p><p>Creo en código limpio y mantenible, en la colaboración de equipo y en la mejora continua. La mejor ingeniería surge de equipos que confían entre sí y comparten la responsabilidad de la calidad.</p>',
       'interests-label':  'Intereses',
       'interest-0': 'Música rock y bajo eléctrico',
