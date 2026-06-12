@@ -11,6 +11,7 @@
   --clr-green-top:  #9CE907;
   --clr-green-bot:  #00E8A3;
   --clr-muted:      #61736D;
+  --clr-muted-on-dark: #8a9e98;
   --clr-text:       #1a1a1a;
   --clr-body:       #444444;
   --clr-subtle:     #555555;
@@ -91,7 +92,7 @@ button { cursor: pointer; font-family: inherit; }
   font-weight: 600;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: var(--clr-muted);
+  color: var(--clr-muted-on-dark);
 }
 
 .nav-links {
@@ -102,7 +103,7 @@ button { cursor: pointer; font-family: inherit; }
 
 .nav-links a {
   font-size: 13px;
-  color: var(--clr-muted);
+  color: var(--clr-muted-on-dark);
   transition: color .2s;
 }
 
@@ -125,7 +126,7 @@ button { cursor: pointer; font-family: inherit; }
   font-size: 11px;
   font-weight: 500;
   padding: 5px 10px;
-  color: var(--clr-muted);
+  color: var(--clr-muted-on-dark);
   background: transparent;
   border: none;
   letter-spacing: .5px;
@@ -169,6 +170,11 @@ button { cursor: pointer; font-family: inherit; }
   text-transform: uppercase;
   color: var(--clr-green-top);
   margin-bottom: 6px;
+}
+
+.section--light .section-label,
+.section--surface .section-label {
+  color: #3B6D11;
 }
 
 .section-title {
@@ -311,7 +317,7 @@ button { cursor: pointer; font-family: inherit; }
   font-size: 9px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: var(--clr-green-top);
+  color: #3B6D11;
   margin-bottom: 10px;
 }
 
@@ -358,7 +364,7 @@ button { cursor: pointer; font-family: inherit; }
   font-size: 9px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: var(--clr-green-top);
+  color: #3B6D11;
   margin-bottom: 8px;
 }
 
@@ -408,7 +414,7 @@ button { cursor: pointer; font-family: inherit; }
 
 .tl-date {
   font-size: 11px;
-  color: var(--clr-muted);
+  color: var(--clr-muted-on-dark);
   margin-bottom: 3px;
   letter-spacing: .3px;
 }
@@ -428,7 +434,7 @@ button { cursor: pointer; font-family: inherit; }
 
 .tl-description {
   font-size: 13px;
-  color: var(--clr-muted);
+  color: var(--clr-muted-on-dark);
   line-height: 1.7;
 
   &.tl-description li,
@@ -458,8 +464,8 @@ button { cursor: pointer; font-family: inherit; }
   font-size: 10px;
   padding: 2px 9px;
   border-radius: 20px;
-  border: 1px solid rgba(97,115,109,0.28);
-  color: var(--clr-muted);
+  border: 1px solid rgba(138,158,152,0.4);
+  color: var(--clr-muted-on-dark);
 }
 
 /* ─── PROJECTS ────────────────────────────────────────── */
@@ -535,7 +541,7 @@ button { cursor: pointer; font-family: inherit; }
 
 .contact-intro {
   font-size: 15px;
-  color: var(--clr-muted);
+  color: var(--clr-muted-on-dark);
   line-height: 1.75;
 }
 
@@ -592,12 +598,12 @@ button { cursor: pointer; font-family: inherit; }
 
 .footer-copy {
   font-size: 12px;
-  color: var(--clr-muted);
+  color: var(--clr-muted-on-dark);
 }
 
 .footer-blog {
   font-size: 12px;
-  color: rgba(97,115,109,0.45);
+  color: var(--clr-muted-on-dark);
 }
 
 /* ─── RESPONSIVE ──────────────────────────────────────── */
