@@ -2,7 +2,7 @@
 
 **Frontend Tech Lead** based in the Canary Islands, Spain — working remotely with international teams.
 
-I've spent 10+ years building web products and leading frontend engineering. Right now I'm focused on **React**, **TypeScript**, and **Next.js**, leading the frontend technical direction at [KenTech](https://kentech.es) — a sports betting platform serving international markets in real time.
+I've spent 13+ years building web products and leading frontend engineering. Right now I'm focused on **React**, **TypeScript**, and **Next.js**, leading the frontend technical direction at [KenTech](https://kentech.es) — a sports betting platform serving international markets in real time.
 
 I care about frontend architecture, developer experience, and engineering culture. I enjoy mentoring engineers, making technical roadmap decisions, and collaborating closely with product and design to build things that matter.
 

@@ -11,7 +11,7 @@
 
       'hero-eyebrow': 'Senior Frontend Engineer · Technical Lead',
       'hero-title':   'Frontend engineering<br>with <em>leadership depth.</em>',
-      'hero-body':    '10+ years building scalable web applications and leading frontend teams. Specialised in React, TypeScript, and modern frontend architecture in fast-paced, product-focused environments.',
+      'hero-body':    '13+ years building scalable web applications and leading frontend teams. Specialised in React, TypeScript, and modern frontend architecture in fast-paced, product-focused environments.',
       'hero-cta':     'View experience',
 
       'about-label': 'About',
@@ -72,7 +72,7 @@
 
       'hero-eyebrow': 'Senior Frontend Engineer · Technical Lead',
       'hero-title':   'Ingeniería frontend<br>con <em>visión de liderazgo.</em>',
-      'hero-body':    'Más de 10 años construyendo aplicaciones web escalables y liderando equipos de frontend. Especializado en React, TypeScript y arquitectura frontend moderna en entornos de producto.',
+      'hero-body':    'Más de 13 años construyendo aplicaciones web escalables y liderando equipos de frontend. Especializado en React, TypeScript y arquitectura frontend moderna en entornos de producto.',
       'hero-cta':     'Ver experiencia',
 
       'about-label': 'Sobre mí',
